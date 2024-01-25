@@ -1,6 +1,14 @@
-.class {
-  background-color: aquamarine;
-}
 .canned-goods {
   background-color: beige;
+  color: black;
+  display: ;
+}
+.pantry-items {
+  color: gray;
+  background-color: blanchedalmond;
+  display: inline-block;
+}
+.dry-goods {
+  background-color: beige;
+  display: inline-block;
 }
