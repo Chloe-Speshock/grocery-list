@@ -1,14 +1,17 @@
-.canned-goods {
-  background-color: beige;
-  color: black;
-  display: ;
+th {
+  border: 1px solid black;
+  background-color: aquamarine;
+  border-style: none;
 }
-.pantry-items {
-  color: gray;
-  background-color: blanchedalmond;
-  display: inline-block;
+td {
+  border: 1px solid black;
+  background-color: aquamarine;
+  border-style: none;
+  padding: 15px;
 }
-.dry-goods {
-  background-color: beige;
-  display: inline-block;
+h1 {
+  text-align: center;
+}
+img {
+  width: 150px;
 }
